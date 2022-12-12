@@ -1,5 +1,16 @@
+body {
+    background: #d9d9d7;
+    min-height: 98vh;
+}
+#header{
+    display: flex;                        
+    justify-content: space-evenly;
+    text-align: center;
+}
 .box {
     display: flex;
+    justify-content: center;
+    align-items: center;
     padding: 10px;
  }
  
